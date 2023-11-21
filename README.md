@@ -19,5 +19,10 @@ EXPERIMENT 6:SUMMING OF SERIES OF ODD NUMBER FROM 1 TO N
 ![image](https://github.com/yuvi444/CSA0178/assets/112838629/90a70c0d-d632-4542-b7a9-852be2ecb7e3)
 
 
+EXPERIMENT 7:SUM OF SQUARE OF NUMBER FROM 1 TO N
+![image](https://github.com/yuvi444/CSA0178/assets/112838629/fd55e80c-7fca-4794-9b2b-98f75939bbee)
+
+
+
 
 

@@ -1,0 +1,21 @@
+#include <stdio.h>
+int main() 
+{
+    int num;
+    printf("Enter an integer number: ");
+    scanf("%d", &num);r
+    printf("Digits of the number %d are: ", num);
+    if (num < 0)
+{
+        printf("-");
+        num = -num;
+}
+    while (num > 0) 
+{
+        int digit = num % 10;
+        printf("%d ", digit);
+        num /= 10;
+}
+    printf("\n");
+    return 0;
+}
